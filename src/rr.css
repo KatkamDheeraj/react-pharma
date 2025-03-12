@@ -22,21 +22,18 @@ body, html {
     transform: scale(1.00);
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
-.class6 {
+.class6, .class7, .class8 {
     border: 1px solid black;
     margin-bottom: 20px;
+    padding: 10px;
+    max-width: 100%; /* Make images responsive */
+    height: auto; 
+    .class6 {
     margin-right: 100px;
 }
-.class7 {
-    border: 1px solid black;
-    margin-bottom: 20px;
-    margin-left: 100px;
 
-}
-.class8 {
-    border: 1px solid black;
-    margin-bottom: 20px;
-}
+.class7 {
+    margin-left: 100px;
 .class3 {
     display: inline-block;
     padding: 10px 20px;
