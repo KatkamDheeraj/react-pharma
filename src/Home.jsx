@@ -12,7 +12,7 @@ export default function Home() {
         backgroundAttachment: 'fixed',
         height: '100vh',
         width: '100%',
-        overflow: 'hidden',
+        overflow: 'auto',
     };
     const image1 = {
         width:'250px',
