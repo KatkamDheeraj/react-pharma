@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-pharma/static/css/main.19debb1d.css",
+    "main.js": "/react-pharma/static/js/main.7db652e7.js",
+    "index.html": "/react-pharma/index.html",
+    "main.19debb1d.css.map": "/react-pharma/static/css/main.19debb1d.css.map",
+    "main.7db652e7.js.map": "/react-pharma/static/js/main.7db652e7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19debb1d.css",
+    "static/js/main.7db652e7.js"
+  ]
+}
