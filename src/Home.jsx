@@ -9,7 +9,6 @@ export default function Home() {
         backgroundSize: 'cover',
         backgroundPosition: 'center',
         backgroundRepeat: 'no-repeat',
-        backgroundAttachment: 'fixed',
         height: '100vh',
         width: '100%',
         overflow: 'auto',
